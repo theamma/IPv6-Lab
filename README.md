@@ -16,4 +16,4 @@ In this project, a laboratory for IPv6 will be set up using a desktop computer w
 - gvncviewer
 
 ## Network topology
-[Network topology](./img/lab2.png "Network topology")
+[Network topology](img/lab2.png "Network topology")
